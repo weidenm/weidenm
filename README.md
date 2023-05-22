@@ -1,7 +1,8 @@
 ### Olá, eu sou Weiden Mendes
 
-- 🔭 Atualmente trabalho com SQL Server, ADVPL e implantação de ERP Protheus.
-- 🌱 Estou estudando C#, Kotlin e Flutter
+- 🔭 Tenho experiência de mais de 10 anos com SQL Server, ADVPL (baseado em Clipper) e implantação de ERP Protheus. Trabalhei também com Visual Basic, Reporting Services, Crystal Reports.
+- 🌱 Conhecimentos e estudos em PHP, C#, Delphi, Visual Basic, Clipper.
+- Estudos já realizados também em Kotlin e Flutter.
 
  <div>
   <a href="https://github.com/weidenm">

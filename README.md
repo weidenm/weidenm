@@ -1,6 +1,6 @@
 ### Olá, eu sou Weiden Mendes
 
-- 🔭 Tenho experiência de mais de 10 anos com SQL Server, ADVPL (baseado em Clipper) e implantação de ERP Protheus. Trabalhei também com Visual Basic, Reporting Services, Crystal Reports.
+- 🔭 Tenho experiência de mais de 20 anos com SQL Server, ADVPL/TL++ e implantação de ERP Protheus. Trabalhei também com Visual Basic, C#, Reporting Services, Crystal Reports, C# e PowerBI.
 - 🌱 Conhecimentos e estudos em HTML, PHP, C#, Delphi, Visual Basic, Clipper.
 - Estudos já realizados também em Kotlin e Flutter.
 
